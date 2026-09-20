@@ -4,7 +4,7 @@ I'm a second-year Computer Engineering student at the University of South-Easter
 
 I'm currently learning and working with Python, C, Java, and SQL through my studies.
 
-I'm new to GitHub, and I'll be using this profile to share school projects and personal projects as I improve my programming skills.
+I use this profile to share school projects and personal projects while improving my programming skills.
 
 ### Currently learning
 
